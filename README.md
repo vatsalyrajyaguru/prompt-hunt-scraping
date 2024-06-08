@@ -15,7 +15,7 @@
 
 - A code should be easy to understand.
 - A programmer should write simple code, which is easily readable by the users. 
-- A code is fast ,efficient and reliable.
+- A code is fast ,efficient and simple.
 
  ## Prerequisites
 
